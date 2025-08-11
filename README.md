@@ -19,6 +19,7 @@ This project streamlines device requests, inventory tracking, approvals, and aut
 🚀 Implementation Steps
 
 1. Create Application
+  
       Provide application name and description.
       Assign roles:
       Device Management
@@ -31,7 +32,7 @@ This project streamlines device requests, inventory tracking, approvals, and aut
       Enable Auto Number.
       Configure Access Controls for roles.
 
-2. GitLab Integration
+3. GitLab Integration
       In ServiceNow Studio: Source Control → Link to Source Control.
       Create GitLab repo → copy HTTPS URL.
       Paste into ServiceNow configuration.
@@ -39,16 +40,16 @@ This project streamlines device requests, inventory tracking, approvals, and aut
       discovery_credentials table
       OR Credentials in Application Navigator.
 
-3. Create Devices Table
+4. Create Devices Table
       Extend from cmdb_ci (Configuration Item).
       Configure form to include device details.
 
-4. Configure Device Request Table
+5. Configure Device Request Table
         Create sections: Device Details, Delivery Details.
         Use UI Policies to make fields read-only.
         Add approvals & assignment group fields.
 
-5. Service Catalog Setup
+6. Service Catalog Setup
         Create Catalog and Catalog Items.
         Reference fields:
         user → Requestor Name
