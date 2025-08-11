@@ -7,6 +7,7 @@ This project streamlines device requests, inventory tracking, approvals, and aut
 
 
 📌 Features
+
       🖥️ Custom Device Request Application
       📚 Integration with CMDB for device tracking
       🔐 Role-based access control (Device, Release, Dispatch, End User)
