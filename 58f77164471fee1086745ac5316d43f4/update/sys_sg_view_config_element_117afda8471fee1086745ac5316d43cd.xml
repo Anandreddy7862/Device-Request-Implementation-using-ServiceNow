@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <creation_method/>
+        <name>opened_by.avatar-FieldValue</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-08 08:26:02</sys_created_on>
+        <sys_id>117afda8471fee1086745ac5316d43cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>opened_by.avatar-FieldValue</sys_name>
+        <sys_package display_value="Device Request" source="x_1642409_device_r">58f77164471fee1086745ac5316d43f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Device Request">58f77164471fee1086745ac5316d43f4</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_117afda8471fee1086745ac5316d43cd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-08 08:26:02</sys_updated_on>
+        <view_config display_value="Device Request List Screen View Config">457ab1a4471fee1086745ac5316d432f</view_config>
+        <view_template_slot display_value="image_01">caf849b041275010f877183fc9b8be4e</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

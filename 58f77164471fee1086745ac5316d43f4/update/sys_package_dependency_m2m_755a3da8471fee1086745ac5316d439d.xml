@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">807ea76a88122210559020d480f9d26e</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-08 08:25:31</sys_created_on>
+        <sys_id>755a3da8471fee1086745ac5316d439d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Device Request" source="x_1642409_device_r">58f77164471fee1086745ac5316d43f4</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-08 08:25:31</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

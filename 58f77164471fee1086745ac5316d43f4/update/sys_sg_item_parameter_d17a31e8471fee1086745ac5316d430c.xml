@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>Device Request assignment_group</name>
+        <parent>997a31e8471fee1086745ac5316d4309</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-08 08:26:02</sys_created_on>
+        <sys_id>d17a31e8471fee1086745ac5316d430c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Device Request assignment_group</sys_name>
+        <sys_package display_value="Device Request" source="x_1642409_device_r">58f77164471fee1086745ac5316d43f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Device Request">58f77164471fee1086745ac5316d43f4</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_d17a31e8471fee1086745ac5316d430c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-08 08:26:02</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>

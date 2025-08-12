@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Implemented a ServiceNow device request system with self-service portal, automated approvals, notifications, and real-time status tracking.</description>
+        <device_type>browser</device_type>
+        <hint>Implemented a ServiceNow device request system with self-service portal, automated approvals, notifications, and real-time status tracking.</hint>
+        <name/>
+        <order/>
+        <roles>x_1642409_device_r.device management,x_1642409_device_r.release management,x_1642409_device_r.dispatch managemant,x_1642409_device_r.end user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-08 08:25:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9f6abd64471fee1086745ac5316d4364</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Device Request</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Device Request" source="x_1642409_device_r">58f77164471fee1086745ac5316d43f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Device Request">58f77164471fee1086745ac5316d43f4</sys_scope>
+        <sys_update_name>sys_app_application_9f6abd64471fee1086745ac5316d4364</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-08 08:25:54</sys_updated_on>
+        <title>Device Request</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

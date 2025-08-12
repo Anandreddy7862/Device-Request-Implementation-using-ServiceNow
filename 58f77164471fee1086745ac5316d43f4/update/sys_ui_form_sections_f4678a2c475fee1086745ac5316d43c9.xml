@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="f4678a2c475fee1086745ac5316d43c9" sys_domain="global" table="x_1642409_device_r_devices" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-08 09:22:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cd678a2c475fee1086745ac5316d43cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1642409_device_r_devices" name="x_1642409_device_r_devices" sys_domain="global" view="Default view">f4678a2c475fee1086745ac5316d43c9</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1642409_device_r_devices" sys_domain="global" view="Default view">221f7120475fee1086745ac5316d4350</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-08 09:22:32</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-08 09:22:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c9678a2c475fee1086745ac5316d43cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1642409_device_r_devices" name="x_1642409_device_r_devices" sys_domain="global" view="Default view">f4678a2c475fee1086745ac5316d43c9</sys_ui_form>
+            <sys_ui_section caption="Price &amp; Warranty Details" display_value="Price &amp; Warranty Details" name="x_1642409_device_r_devices" sys_domain="global" view="Default view">74678a2c475fee1086745ac5316d43c8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-08 09:22:32</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1642409_device_r_devices</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-08 09:22:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f4678a2c475fee1086745ac5316d43c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1642409_device_r_devices</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Device Request" source="x_1642409_device_r">58f77164471fee1086745ac5316d43f4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Device Request">58f77164471fee1086745ac5316d43f4</sys_scope>
+            <sys_update_name>sys_ui_form_sections_f4678a2c475fee1086745ac5316d43c9</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-08 09:22:31</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

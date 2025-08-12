@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>catalog_request_devices</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-08 16:55:31</sys_created_on>
+        <sys_id>ec1febac4757225086745ac5316d436b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request Devices View</sys_name>
+        <sys_package display_value="Device Request" source="x_1642409_device_r">58f77164471fee1086745ac5316d43f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Device Request">58f77164471fee1086745ac5316d43f4</sys_scope>
+        <sys_update_name>sys_ui_view_ec1febac4757225086745ac5316d436b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-08 16:55:31</sys_updated_on>
+        <title>Request Devices View</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

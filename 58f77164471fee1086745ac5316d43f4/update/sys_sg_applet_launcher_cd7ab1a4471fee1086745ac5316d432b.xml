@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
+    <sys_sg_applet_launcher action="INSERT_OR_UPDATE">
+        <access_control_type>user_roles</access_control_type>
+        <active>true</active>
+        <available_offline>false</available_offline>
+        <header_button/>
+        <header_titles/>
+        <hide_empty_sections>true</hide_empty_sections>
+        <name>Device Request</name>
+        <required_roles>x_1642409_device_r.device management,x_1642409_device_r.release management,x_1642409_device_r.dispatch managemant,x_1642409_device_r.end user</required_roles>
+        <search_config/>
+        <sys_class_name>sys_sg_applet_launcher</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-08 08:26:01</sys_created_on>
+        <sys_id>cd7ab1a4471fee1086745ac5316d432b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Device Request</sys_name>
+        <sys_package display_value="Device Request" source="x_1642409_device_r">58f77164471fee1086745ac5316d43f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Device Request">58f77164471fee1086745ac5316d43f4</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_cd7ab1a4471fee1086745ac5316d432b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-08 08:26:01</sys_updated_on>
+        <title>Device Request</title>
+    </sys_sg_applet_launcher>
+</record_update>

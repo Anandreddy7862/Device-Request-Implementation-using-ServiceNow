@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_dictionary_override">
+    <sys_dictionary_override action="DELETE">
+        <attributes/>
+        <attributes_override>false</attributes_override>
+        <base_table>cmdb_ci</base_table>
+        <calculation/>
+        <calculation_override>false</calculation_override>
+        <default_value/>
+        <default_value_override>false</default_value_override>
+        <dependent/>
+        <dependent_override>false</dependent_override>
+        <display_override>false</display_override>
+        <element>model_number</element>
+        <mandatory>false</mandatory>
+        <mandatory_override>false</mandatory_override>
+        <name>x_1642409_device_r_devices</name>
+        <read_only>true</read_only>
+        <read_only_override>true</read_only_override>
+        <reference_qual/>
+        <reference_qual_override>false</reference_qual_override>
+        <sys_class_name>sys_dictionary_override</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-10 06:24:24</sys_created_on>
+        <sys_id>9cc1bf814793221086745ac5316d43e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>model_number</sys_name>
+        <sys_package display_value="Device Request" source="x_1642409_device_r">58f77164471fee1086745ac5316d43f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Device Request">58f77164471fee1086745ac5316d43f4</sys_scope>
+        <sys_update_name>sys_dictionary_override_9cc1bf814793221086745ac5316d43e7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-10 06:24:24</sys_updated_on>
+    </sys_dictionary_override>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Device Request">58f77164471fee1086745ac5316d43f4</application>
+        <file_path/>
+        <instance_id>55a0f039eb786e105a2dfceacad0cdee</instance_id>
+        <instance_name>dev323405</instance_name>
+        <name>sys_dictionary_override_9cc1bf814793221086745ac5316d43e7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_dictionary_override"><sys_dictionary_override action="INSERT_OR_UPDATE"><attributes/><attributes_override>false</attributes_override><base_table>cmdb_ci</base_table><calculation/><calculation_override>false</calculation_override><default_value/><default_value_override>false</default_value_override><dependent/><dependent_override>false</dependent_override><display_override>false</display_override><element>model_number</element><mandatory>false</mandatory><mandatory_override>false</mandatory_override><name>x_1642409_device_r_devices</name><read_only>true</read_only><read_only_override>true</read_only_override><reference_qual/><reference_qual_override>false</reference_qual_override><sys_class_name>sys_dictionary_override</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-10 06:24:24</sys_created_on><sys_id>9cc1bf814793221086745ac5316d43e7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>model_number</sys_name><sys_package display_value="Device Request" source="x_1642409_device_r">58f77164471fee1086745ac5316d43f4</sys_package><sys_policy/><sys_scope display_value="Device Request">58f77164471fee1086745ac5316d43f4</sys_scope><sys_update_name>sys_dictionary_override_9cc1bf814793221086745ac5316d43e7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-10 06:24:24</sys_updated_on></sys_dictionary_override></record_update>]]></payload>
+        <payload_hash>1418988902</payload_hash>
+        <record_name>model_number</record_name>
+        <reverted_from/>
+        <source>693bbd64471fee1086745ac5316d432e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-10 06:24:25</sys_created_on>
+        <sys_id>53c17f814793221086745ac5316d4324</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19892a6dab10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-10 06:24:25</sys_updated_on>
+        <type>Dictionary Entry Override</type>
+        <update_guid>57c17f810b932210c90ea9a75446c923</update_guid>
+        <update_guid_history>57c17f810b932210c90ea9a75446c923:1418988902</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-10 06:27:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary_override">sys_dictionary_override</sys_db_object>
+        <sys_id>3692d00a64574c42b2031ba5341c9384</sys_id>
+        <sys_metadata>9cc1bf814793221086745ac5316d43e7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>model_number</sys_name>
+        <sys_package display_value="Device Request" source="x_1642409_device_r">58f77164471fee1086745ac5316d43f4</sys_package>
+        <sys_parent display_value="">09bef520475fee1086745ac5316d43aa</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Device Request">58f77164471fee1086745ac5316d43f4</sys_scope>
+        <sys_scope_delete display_value="">27447651e0f348489850137a21fa4e90</sys_scope_delete>
+        <sys_update_name>sys_dictionary_override_9cc1bf814793221086745ac5316d43e7</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_override_9cc1bf814793221086745ac5316d43e7">53c17f814793221086745ac5316d4324</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-10 06:27:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="669d71ec471fee1086745ac5316d437b" extends="cmdb_ci" label="Devices" max_length="40" name="x_1642409_device_r_devices" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Product Description" max_length="100" name="description" type="string"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Price" max_length="20" name="price" type="price"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Device Category" max_length="40" name="device_category" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Smart Phones" sequence="1" value="smart phones"/>
+                <element inactive_on_update="false" label="Laptops" sequence="0" value="laptops"/>
+                <element inactive_on_update="false" label="Mobile Accessories" sequence="2" value="mobile accessories"/>
+            </choice>
+        </element>
+    </element>
+</database>

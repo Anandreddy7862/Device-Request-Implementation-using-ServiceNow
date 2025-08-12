@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_portal_catalog">
+    <m2m_sp_portal_catalog action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <order>100</order>
+        <sc_catalog display_value="Devices">fe8ea7ec4757225086745ac5316d43d1</sc_catalog>
+        <sp_portal display_value="Service Portal ">81b75d3147032100ba13a5554ee4902b</sp_portal>
+        <sys_class_name>m2m_sp_portal_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-08 17:30:55</sys_created_on>
+        <sys_id>e517f3e84797225086745ac5316d4349</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Devices.Service Portal </sys_name>
+        <sys_package display_value="Device Request" source="x_1642409_device_r">58f77164471fee1086745ac5316d43f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Device Request">58f77164471fee1086745ac5316d43f4</sys_scope>
+        <sys_update_name>m2m_sp_portal_catalog_e517f3e84797225086745ac5316d4349</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-08 17:30:55</sys_updated_on>
+    </m2m_sp_portal_catalog>
+</record_update>

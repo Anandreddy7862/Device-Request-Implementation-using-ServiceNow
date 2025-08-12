@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="Device Request">cd7ab1a4471fee1086745ac5316d432b</applet_launcher>
+        <order/>
+        <section display_value="Device Request">6d7a31e8471fee1086745ac5316d4335</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-08 08:26:03</sys_created_on>
+        <sys_id>657a31e8471fee1086745ac5316d4337</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Device Request" source="x_1642409_device_r">58f77164471fee1086745ac5316d43f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Device Request">58f77164471fee1086745ac5316d43f4</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_657a31e8471fee1086745ac5316d4337</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-08 08:26:03</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+</record_update>

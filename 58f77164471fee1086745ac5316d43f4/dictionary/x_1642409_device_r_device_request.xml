@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="6d5a3da8471fee1086745ac5316d4386" extends="task" label="Device Request" max_length="40" name="x_1642409_device_r_device_request" type="collection">
+        <element attributes="encode_utf8=false" label="Requestor Name" mandatory="true" max_length="32" name="req_name" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Delivery Date" max_length="40" name="delivery_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Quantity" mandatory="true" max_length="40" name="quantity" type="string"/>
+        <element attributes="encode_utf8=false" label="Device Name" mandatory="true" max_length="32" name="devicename" reference="x_1642409_device_r_devices" type="reference"/>
+    </element>
+</database>

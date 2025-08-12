@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Device Request)">2d7a31e8471fee1086745ac5316d432c</button>
+        <item_parameter display_value="Device Request sys_id">e17a31e8471fee1086745ac5316d4328</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-08 08:26:03</sys_created_on>
+        <sys_id>657a31e8471fee1086745ac5316d4331</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e17a31e8471fee1086745ac5316d4328</sys_name>
+        <sys_package display_value="Device Request" source="x_1642409_device_r">58f77164471fee1086745ac5316d43f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Device Request">58f77164471fee1086745ac5316d43f4</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_657a31e8471fee1086745ac5316d4331</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-08 08:26:03</sys_updated_on>
+        <ui_parameter display_value="Sys ID">a17a31e8471fee1086745ac5316d432d</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
